@@ -34,7 +34,35 @@ gy
 gi
     Go to implementation.
 gr
-    Find references
+    Find references.
+K
+    Open documentation in preview window.
+<leader>rn
+    Rename the symbol.
+<leader>f
+    Format selected code
+<leader>a
+    Code action on selected region.
+<leader>ac
+    Code action on current buffer.
+<leader>qf
+    Apply autofix problem on the current line.
+<space>a
+    Show all diagnosis.
+<space>e
+    Manage extensions.
+<space>c
+    Show commands.
+<space>o
+    Find symbol of current document.
+<space>s
+    Search workspace symbols.
+<space>j
+    Do default action for next item.
+<space>k
+    Do default action for previous item.
+<space>p
+    Resume latest CoC list.
 ```
     
     
