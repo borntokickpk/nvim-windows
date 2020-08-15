@@ -36,3 +36,4 @@ set clipboard=unnamedplus
 
 " Color scheme
 autocmd vimenter * colorscheme gruvbox
+autocmd vimenter * AirlineTheme gruvbox
