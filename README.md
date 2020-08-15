@@ -18,22 +18,23 @@ iwr -useb https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim |`
 ## Plugins
 ### Conquerer of Completion
 #### CoC Keybindings
-##### TAB
+```
+TAB
     Autocomplete the word you are on.
-##### Ctrl + Space
+Ctrl + Space
     Trigger autocompletion
-##### Enter
+Enter
     Autocomplete the word you are on.
-##### \[g and \]g
+\[g and \]g
     To navigate between diagnostics.
-##### gd
+gd
     Go to definition.
-##### gy
+gy
     Go to type definition.
-##### gi
+gi
     Go to implementation.
-##### gr
+gr
     Find references
-
+```
     
     
