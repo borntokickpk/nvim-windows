@@ -25,7 +25,15 @@ iwr -useb https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim |`
 ##### Enter
     Autocomplete the word you are on.
 ##### \[g and \]g
-    To navigate between diagnostics
+    To navigate between diagnostics.
+##### gd
+    Go to definition.
+##### gy
+    Go to type definition.
+##### gi
+    Go to implementation.
+##### gr
+    Find references
 
     
     
