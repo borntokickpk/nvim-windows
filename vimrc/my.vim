@@ -33,3 +33,6 @@ nnoremap <c-y> 2<c-y>
 
 " Set copying from clipboard
 set clipboard=unnamedplus
+
+" Color scheme
+autocmd vimenter * colorscheme gruvbox
