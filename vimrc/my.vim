@@ -1,6 +1,5 @@
 set nu
 set relativenumber
-let mapleader=" "
 set nowrap
 set guicursor=
 set nohlsearch
