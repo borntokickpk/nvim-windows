@@ -66,6 +66,8 @@ K
 ```
 
 ### FZF (Fuzzy Finder)
+#### Alert
+When opened first time FZF requires some installation.
 #### FZF Keybindings
 ```
 <c-p>
