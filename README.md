@@ -64,5 +64,10 @@ K
 <space>p
     Resume latest CoC list.
 ```
-    
-    
+
+### FZF (Fuzzy Finder)
+#### FZF Keybindings
+```
+<c-p>
+    Open FZF
+```
