@@ -159,3 +159,5 @@ nmap ]c <Plug>(coc-git-nextchunk)
 nmap gs <Plug>(coc-git-chunkinfo)
 " show commit contains current position
 nmap gc <Plug>(coc-git-commit)
+" Show git status
+nnoremap <silent> <space>g  :<C-u>CocList --normal gstatus<CR>
