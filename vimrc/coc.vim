@@ -161,3 +161,6 @@ nmap gs <Plug>(coc-git-chunkinfo)
 nmap gc <Plug>(coc-git-commit)
 " Show git status
 nnoremap <silent> <space>g  :<C-u>CocList --normal gstatus<CR>
+
+" Prettier setup
+command! -nargs=0 Prettier :CocCommand prettier.formatFile
