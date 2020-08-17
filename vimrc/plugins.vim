@@ -5,5 +5,4 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'junegunn/fzf'
 Plug 'tpope/vim-fugitive'
-Plug 'scrooloose/nerdtree'
 call plug#end()
