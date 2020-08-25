@@ -4,7 +4,7 @@ set nowrap
 set guicursor=
 set nohlsearch
 set noerrorbells
-set tabstop=3 softtabstop=3
+set tabstop=8 softtabstop=0 expandtab shiftwidth=3 smarttab
 set expandtab
 set smartindent
 set smartcase
@@ -12,7 +12,6 @@ set noswapfile
 set nobackup
 set incsearch
 set termguicolors
-set scrolloff=8
 
 " Window Commands
 nnoremap <leader>K :wincmd k<CR>
