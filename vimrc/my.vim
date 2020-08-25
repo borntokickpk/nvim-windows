@@ -13,6 +13,7 @@ set nobackup
 set incsearch
 set termguicolors
 set scrolloff=4
+set colorcolumn=80
 
 " Window Commands
 nnoremap <leader>K :wincmd k<CR>
