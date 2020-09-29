@@ -37,3 +37,9 @@ set clipboard=unnamedplus
 " Color scheme
 autocmd vimenter * colorscheme gruvbox
 autocmd vimenter * AirlineTheme gruvbox
+
+" Buffer switching
+nnoremap gb :ls<CR>:b<space>
+
+" turn off insert mode with jk
+inoremap jk <ESC>
